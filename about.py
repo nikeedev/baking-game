@@ -3,10 +3,10 @@ import os
 
 def info():
     os.system("cls")
-    print("Cooking Game®")
+    print("Baking Game®")
     print("Made by nikeedev(Nikita)")
-    print("Copyright ©2021")
-    print("This game is made completly by hand, and no turtorials have been used.")
+    print("Copyright ©2022")
+    print("This game is made completly by hand, and no tutorials have been used.")
     print("Game code can be changed, but without asking owner(nikeedev),")
     print("you are not following rules and may cause in problems.")
     print(" ")
